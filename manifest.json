@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "name": "01-obshie-pravila.txt",
+      "title": "Общие правила проекта",
+      "sha256": "3f47dd88c8b102e74e136e754b537433966c82562410edb54ff1947f6d2530b0"
+    },
+    {
+      "name": "02-kriminal.txt",
+      "title": "Правила криминальных организаций",
+      "sha256": "135f1318f314341d382a1dbf2f85acf029a982d89105db5f848adf6bc6ac2b70"
+    },
+    {
+      "name": "03-gos.txt",
+      "title": "Общие правила государственных структур",
+      "sha256": "40c75133e3ea7b7a0767ea50049cdcec2340354d5c360b51e6f1ee32da29d262"
+    }
+  ],
+  "app": {
+    "version": "1.1.0",
+    "file": "NovaRP-Spravochnik.exe",
+    "sha256": "84b4cf9b93c010ba450660e13ba17847318e19246e7279e1a8ef20f05ba18ec9",
+    "notes": "Автообновление правил и программы"
+  }
+}
